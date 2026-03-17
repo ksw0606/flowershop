@@ -1,0 +1,11 @@
+C:\FactoryAgentWorkspace\dec3ff0b-c326-4a77-ae4a-0072e743e906\workspace\FlowerShop.Data\bin\Debug\net10.0\FlowerShop.Data.deps.json
+C:\FactoryAgentWorkspace\dec3ff0b-c326-4a77-ae4a-0072e743e906\workspace\FlowerShop.Data\bin\Debug\net10.0\FlowerShop.Data.dll
+C:\FactoryAgentWorkspace\dec3ff0b-c326-4a77-ae4a-0072e743e906\workspace\FlowerShop.Data\bin\Debug\net10.0\FlowerShop.Data.pdb
+C:\FactoryAgentWorkspace\dec3ff0b-c326-4a77-ae4a-0072e743e906\workspace\FlowerShop.Data\obj\Debug\net10.0\FlowerShop.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\FactoryAgentWorkspace\dec3ff0b-c326-4a77-ae4a-0072e743e906\workspace\FlowerShop.Data\obj\Debug\net10.0\FlowerShop.Data.AssemblyInfoInputs.cache
+C:\FactoryAgentWorkspace\dec3ff0b-c326-4a77-ae4a-0072e743e906\workspace\FlowerShop.Data\obj\Debug\net10.0\FlowerShop.Data.AssemblyInfo.cs
+C:\FactoryAgentWorkspace\dec3ff0b-c326-4a77-ae4a-0072e743e906\workspace\FlowerShop.Data\obj\Debug\net10.0\FlowerShop.Data.csproj.CoreCompileInputs.cache
+C:\FactoryAgentWorkspace\dec3ff0b-c326-4a77-ae4a-0072e743e906\workspace\FlowerShop.Data\obj\Debug\net10.0\FlowerShop.Data.dll
+C:\FactoryAgentWorkspace\dec3ff0b-c326-4a77-ae4a-0072e743e906\workspace\FlowerShop.Data\obj\Debug\net10.0\refint\FlowerShop.Data.dll
+C:\FactoryAgentWorkspace\dec3ff0b-c326-4a77-ae4a-0072e743e906\workspace\FlowerShop.Data\obj\Debug\net10.0\FlowerShop.Data.pdb
+C:\FactoryAgentWorkspace\dec3ff0b-c326-4a77-ae4a-0072e743e906\workspace\FlowerShop.Data\obj\Debug\net10.0\ref\FlowerShop.Data.dll

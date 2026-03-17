@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "FlowerShop.Admin\\FlowerShop.Admin.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "FlowerShop.Web\\FlowerShop.Web.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

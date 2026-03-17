@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="FlowerShop.Admin/FlowerShop.Admin.csproj" />
+  <Project Path="FlowerShop.Core/FlowerShop.Core.csproj" />
+  <Project Path="FlowerShop.Data/FlowerShop.Data.csproj" />
+  <Project Path="FlowerShop.Models/FlowerShop.Models.csproj" />
+  <Project Path="FlowerShop.Services/FlowerShop.Services.csproj" />
+  <Project Path="FlowerShop.Web/FlowerShop.Web.csproj" />
+</Solution>
