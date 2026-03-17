@@ -9,3 +9,4 @@ C:\FactoryAgentWorkspace\dec3ff0b-c326-4a77-ae4a-0072e743e906\workspace\FlowerSh
 C:\FactoryAgentWorkspace\dec3ff0b-c326-4a77-ae4a-0072e743e906\workspace\FlowerShop.Services\obj\Debug\net10.0\refint\FlowerShop.Services.dll
 C:\FactoryAgentWorkspace\dec3ff0b-c326-4a77-ae4a-0072e743e906\workspace\FlowerShop.Services\obj\Debug\net10.0\FlowerShop.Services.pdb
 C:\FactoryAgentWorkspace\dec3ff0b-c326-4a77-ae4a-0072e743e906\workspace\FlowerShop.Services\obj\Debug\net10.0\ref\FlowerShop.Services.dll
+C:\FactoryAgentWorkspace\dec3ff0b-c326-4a77-ae4a-0072e743e906\workspace\FlowerShop.Services\obj\Debug\net10.0\FlowerShop.Services.sourcelink.json
